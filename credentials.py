@@ -1,5 +1,5 @@
 import os
 
-username = "gairiksaha95@gmail.com"
-password = "Gairick96@"
+username = "Enter Your Facebook User Name"
+password = "Enter Your Facebook Password"
 
