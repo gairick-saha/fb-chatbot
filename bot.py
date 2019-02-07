@@ -7,7 +7,7 @@ import apiai, codecs, json
 
 class Jarvis(Client) :
     def apiaiCon(self):
-        self.CLIENT_ACCESS_TOKEN = "65f1823df1224ef391820a9215b2922d"
+        self.CLIENT_ACCESS_TOKEN = "ENTER_YOUR_API_KEY"
         self.ai = apiai.ApiAI(self.CLIENT_ACCESS_TOKEN)
         self.request = self.ai.text_request()
         self.request.lang = 'de' #defualt : english
