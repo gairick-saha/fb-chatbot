@@ -1,3 +1,3 @@
 # fb-chatbot
 
-Facebook chatbot Created by Phoenix Rat.
+Facebook chatbot Created by Gairick Saha.
